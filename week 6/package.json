@@ -22,7 +22,7 @@
     "pug": "2.0.0-beta11",
     "qrcode-terminal": "^0.12.0",
     "sequelize": "^6.37.1",
-    "whatsapp-web.js": "^1.23.0",
+    "whatsapp-web.js": "^1.24.0",
     "winston": "^3.12.0"
   }
 }
